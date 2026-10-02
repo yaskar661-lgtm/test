@@ -1,0 +1,395 @@
+#EXTM3U
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png",FR: CANAL+ FOOT
+http://31.43.191.125:8080/restream/restream/369
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png",FR: CANAL+ SPORT 360
+http://31.43.191.125:8080/restream/restream/370
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png",FR: CANAL+ SPORT
+http://31.43.191.125:8080/restream/restream/371
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",FR: BEIN SPORTS 1
+http://31.43.191.125:8080/restream/restream/373
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",FR: BEIN SPORTS 1 HD
+http://31.43.191.125:8080/restream/restream/128979
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png",FR: BEIN SPORTS 2
+http://31.43.191.125:8080/restream/restream/374
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png",FR: BEIN SPORTS 3
+http://31.43.191.125:8080/restream/restream/375
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png",FR: BEIN SPORT MAX 4
+http://31.43.191.125:8080/restream/restream/376
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png",FR: BEIN SPORT MAX 5
+http://31.43.191.125:8080/restream/restream/377
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png",FR: BEIN SPORT MAX 6
+http://31.43.191.125:8080/restream/restream/378
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png",FR: BEIN SPORT MAX 7
+http://31.43.191.125:8080/restream/restream/379
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png",FR: BEIN SPORT MAX 8
+http://31.43.191.125:8080/restream/restream/380
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png",FR: BEIN SPORT MAX 9
+http://31.43.191.125:8080/restream/restream/381
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png",FR: BEIN SPORT MAX 10
+http://31.43.191.125:8080/restream/restream/382
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_1.png",FR: EUROSPORT 1
+http://31.43.191.125:8080/restream/restream/383
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_2.png",FR: EUROSPORT 2
+http://31.43.191.125:8080/restream/restream/384
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png",FR: EUROSPORT 360 1
+http://31.43.191.125:8080/restream/restream/385
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_2.png",FR: EUROSPORT 360 2
+http://31.43.191.125:8080/restream/restream/386
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_3.png",FR: EUROSPORT 360 3
+http://31.43.191.125:8080/restream/restream/387
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_4.png",FR: EUROSPORT 360 4
+http://31.43.191.125:8080/restream/restream/87236
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_5.png",FR: EUROSPORT 360 5
+http://31.43.191.125:8080/restream/restream/87237
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png",FR: RMC SPORT 1
+http://31.43.191.125:8080/restream/restream/388
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png",FR: RMC SPORT 2
+http://31.43.191.125:8080/restream/restream/389
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png",FR: RMC SPORT 3
+http://31.43.191.125:8080/restream/restream/390
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png",FR: RMC SPORT 5 LIVE
+http://31.43.191.125:8080/restream/restream/392
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL.png",FR: CANAL+
+http://31.43.191.125:8080/restream/restream/418
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TF1.png",FR: TF1
+http://31.43.191.125:8080/restream/restream/419
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TF1.png",FR: TF1 HD
+http://31.43.191.125:8080/restream/restream/128944
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TF1_SERIES_AND_FILM.png",FR: TF1 SERIES AND FILM
+http://31.43.191.125:8080/restream/restream/420
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/M6.png",FR: M6
+http://31.43.191.125:8080/restream/restream/421
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/M6.png",FR: M6 HD
+http://31.43.191.125:8080/restream/restream/128945
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/W9.png",FR: W9
+http://31.43.191.125:8080/restream/restream/422
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TFX.png",FR: TFX
+http://31.43.191.125:8080/restream/restream/424
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/FRANCE_2.png",FR: FRANCE 2
+http://31.43.191.125:8080/restream/restream/425
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/FRANCE_3.png",FR: FRANCE 3
+http://31.43.191.125:8080/restream/restream/426
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/FRANCE_4.png",FR: FRANCE 4
+http://31.43.191.125:8080/restream/restream/427
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/FRANCE_5.png",FR: FRANCE 5
+http://31.43.191.125:8080/restream/restream/428
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/6_TER.png",FR: 6 TER
+http://31.43.191.125:8080/restream/restream/430
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ARTE.png",FR: ARTE
+http://31.43.191.125:8080/restream/restream/431
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TMC.png",FR: TMC
+http://31.43.191.125:8080/restream/restream/432
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RMC_STORY.png",FR: RMC STORY
+http://31.43.191.125:8080/restream/restream/433
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CHERIE_25.png",FR: RMC LIFE
+http://31.43.191.125:8080/restream/restream/434
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/C_STAR.png",FR: C STAR
+http://31.43.191.125:8080/restream/restream/435
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_ALPHA.png",FR: CANAL ALPHA
+http://31.43.191.125:8080/restream/restream/436
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_CINEMA.png",FR: CANAL+ CINEMA
+http://31.43.191.125:8080/restream/restream/437
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_KIDS.png",FR: CANAL+ KIDS
+http://31.43.191.125:8080/restream/restream/439
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SERIES.png",FR: CANAL+ SERIES
+http://31.43.191.125:8080/restream/restream/440
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png",FR: CANAL+ PREMIER LEAGUE
+http://31.43.191.125:8080/restream/restream/441
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_CLASSIC.png",FR: CINE+ CLASSIC
+http://31.43.191.125:8080/restream/restream/464
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_EMOTION.png",FR: CINE+ EMOTION
+http://31.43.191.125:8080/restream/restream/466
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_FAMILY.png",FR: CINE+ FAMILY
+http://31.43.191.125:8080/restream/restream/467
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_FRISSON.png",FR: CINE+ FRISSON
+http://31.43.191.125:8080/restream/restream/468
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/WARNER_TV.png",FR: WARNER TV
+http://31.43.191.125:8080/restream/restream/477
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NOVELAS_TV.png",FR: NOVELAS TV
+http://31.43.191.125:8080/restream/restream/478
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/POLAR.png",FR: POLAR+
+http://31.43.191.125:8080/restream/restream/479
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CRIME_DISTRICT.png",FR: CRIME DISTRICT
+http://31.43.191.125:8080/restream/restream/480
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PARAMOUNT_CHANNEL.png",FR: PARAMOUNT CHANNEL
+http://31.43.191.125:8080/restream/restream/481
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ACTION.png",FR: ACTION
+http://31.43.191.125:8080/restream/restream/482
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TCM_CINEMA.png",FR: TCM CINEMA
+http://31.43.191.125:8080/restream/restream/483
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 1
+http://31.43.191.125:8080/restream/restream/446
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 2
+http://31.43.191.125:8080/restream/restream/447
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 3
+http://31.43.191.125:8080/restream/restream/448
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 4
+http://31.43.191.125:8080/restream/restream/449
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 5
+http://31.43.191.125:8080/restream/restream/450
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 6
+http://31.43.191.125:8080/restream/restream/451
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 7
+http://31.43.191.125:8080/restream/restream/452
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 9
+http://31.43.191.125:8080/restream/restream/454
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 10
+http://31.43.191.125:8080/restream/restream/455
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 11
+http://31.43.191.125:8080/restream/restream/456
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 14
+http://31.43.191.125:8080/restream/restream/459
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png",FR: CANAL PLAY 17
+http://31.43.191.125:8080/restream/restream/462
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte6.png",FR: A LA CARTE 6
+http://31.43.191.125:8080/restream/restream/489
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte7.png",FR: A LA CARTE 7
+http://31.43.191.125:8080/restream/restream/490
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte8.png",FR: A LA CARTE 8
+http://31.43.191.125:8080/restream/restream/491
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte9.png",FR: A LA CARTE 9
+http://31.43.191.125:8080/restream/restream/492
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte10.png",FR: A LA CARTE 10
+http://31.43.191.125:8080/restream/restream/493
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ANIMAUX.png",FR: ANIMAUX
+http://31.43.191.125:8080/restream/restream/500
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CHASSE_PECHE.png",FR: CHASSE & PECHE
+http://31.43.191.125:8080/restream/restream/501
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_CHANNEL.png",FR: DISCOVERY CHANNEL
+http://31.43.191.125:8080/restream/restream/502
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_INVESTIGATION.png",FR: DISCOVERY INVESTIGATION
+http://31.43.191.125:8080/restream/restream/503
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/HISTOIRE.png",FR: HISTOIRE
+http://31.43.191.125:8080/restream/restream/507
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PLANETE.png",FR: PLANETE+
+http://31.43.191.125:8080/restream/restream/508
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PLANETE_ADVENTURE.png",FR: PLANETE+ ADVENTURE
+http://31.43.191.125:8080/restream/restream/509
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PLANETE_CRIME.png",FR: PLANETE+ CRIME
+http://31.43.191.125:8080/restream/restream/510
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/natgeo.png",FR: NATIONAL GEO
+http://31.43.191.125:8080/restream/restream/511
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RMC_DECOUVERTE.png",FR: RMC DECOUVERTE
+http://31.43.191.125:8080/restream/restream/513
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SCIENCE_VIE.png",FR: SCIENCE & VIE
+http://31.43.191.125:8080/restream/restream/514
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SEASONS.png",FR: SEASONS
+http://31.43.191.125:8080/restream/restream/515
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TOUTE_LHISTOIRE.png",FR: TOUTE L'HISTOIRE
+http://31.43.191.125:8080/restream/restream/516
+#EXTINF:-1 group-title="FR | DOCUMENTAIRE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/USHUAIA_TV.png",FR: USHUAIA TV
+http://31.43.191.125:8080/restream/restream/518
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AB_1.png",FR: AB 1
+http://31.43.191.125:8080/restream/restream/519
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AB_3.png",FR: AB 3
+http://31.43.191.125:8080/restream/restream/520
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/COMEDY_CENTRAL.png",FR: COMEDY CENTRAL
+http://31.43.191.125:8080/restream/restream/523
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/COMEDIE.png",FR: COMEDIE+
+http://31.43.191.125:8080/restream/restream/524
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ENTERTAINMENT.png",FR: E! ENTERTAINMENT
+http://31.43.191.125:8080/restream/restream/525
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/KTO.png",FR: KTO
+http://31.43.191.125:8080/restream/restream/526
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MUSEUM.png",FR: MUSEUM
+http://31.43.191.125:8080/restream/restream/527
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PARIS_PREMIERE.png",FR: PARIS PREMIERE
+http://31.43.191.125:8080/restream/restream/528
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RTL9.png",FR: RTL9
+http://31.43.191.125:8080/restream/restream/529
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SERIE_CLUB.png",FR: SERIE CLUB
+http://31.43.191.125:8080/restream/restream/530
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SYFY.png",FR: SYFY
+http://31.43.191.125:8080/restream/restream/531
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TEVA.png",FR: TEVA
+http://31.43.191.125:8080/restream/restream/532
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TV_BREIZH.png",FR: TV BREIZH
+http://31.43.191.125:8080/restream/restream/533
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/13_EME_RUE.png",FR: 13 EME RUE
+http://31.43.191.125:8080/restream/restream/534
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/GAME_ONE.png",FR: GAME ONE
+http://31.43.191.125:8080/restream/restream/546
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/GULLI.png",FR: GULLI
+http://31.43.191.125:8080/restream/restream/547
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/J-ONE.png",FR: J-ONE
+http://31.43.191.125:8080/restream/restream/548
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MANGAS.png",FR: MANGAS
+http://31.43.191.125:8080/restream/restream/549
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NICKELODEON.png",FR: NICKELODEON
+http://31.43.191.125:8080/restream/restream/550
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NICKELODEON_4_TEEN.png",FR: NICKELODEON TEEN
+http://31.43.191.125:8080/restream/restream/551
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NICKELODEON_JR.png",FR: NICKELODEON JR
+http://31.43.191.125:8080/restream/restream/552
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PIWI.png",FR: PIWI
+http://31.43.191.125:8080/restream/restream/553
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TELETOON_1.png",FR: TELETOON+ 1
+http://31.43.191.125:8080/restream/restream/554
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TELETOON.png",FR: TELETOON+
+http://31.43.191.125:8080/restream/restream/555
+#EXTINF:-1 group-title="FR | MUSIQUE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TRACE_URBAN.png",FR: TRACE URBAN
+http://31.43.191.125:8080/restream/restream/572
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/C_NEWS.png",FR: C NEWS
+http://31.43.191.125:8080/restream/restream/573
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BFM_TV.png",FR: BFM TV
+http://31.43.191.125:8080/restream/restream/574
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BFM_BUSINESS.png",FR: BFM BUSINESS
+http://31.43.191.125:8080/restream/restream/575
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BFM_PARIS.png",FR: BFM PARIS
+http://31.43.191.125:8080/restream/restream/576
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EURONEWS.png",FR: EURONEWS
+http://31.43.191.125:8080/restream/restream/577
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/i24_News.png",FR: i24 News
+http://31.43.191.125:8080/restream/restream/578
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/FRANCE_24.png",FR: FRANCE 24
+http://31.43.191.125:8080/restream/restream/579
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/FRANCE_INFO.png",FR: FRANCE INFO
+http://31.43.191.125:8080/restream/restream/580
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/LCI.png",FR: LCI
+http://31.43.191.125:8080/restream/restream/581
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/LCP.png",FR: LCP
+http://31.43.191.125:8080/restream/restream/582
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/LA_CHAINE_METEO.png",FR: LA CHAINE METEO
+http://31.43.191.125:8080/restream/restream/583
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RT_FRANCE.png",FR: RT FRANCE
+http://31.43.191.125:8080/restream/restream/584
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TV5_MONDE.png",FR: TV5 MONDE
+http://31.43.191.125:8080/restream/restream/585
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CARTOONITO.png",FR: CARTOONITO
+http://31.43.191.125:8080/restream/restream/598
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EQUIDIA.png",FR: EQUIDIA
+http://31.43.191.125:8080/restream/restream/603
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/LUCKY_JACK_TV.png",FR: LUCKY JACK TV
+http://31.43.191.125:8080/restream/restream/607
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RTS_2.png",FR: RTS 2
+http://31.43.191.125:8080/restream/restream/613
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RTS_1.png",FR: RTS 1
+http://31.43.191.125:8080/restream/restream/614
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TVM_3.png",FR: TVM 3
+http://31.43.191.125:8080/restream/restream/618
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AUTOMOTO.png",FR: AUTOMOTO
+http://31.43.191.125:8080/restream/restream/621
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/GOLF.png",FR: GOLF+
+http://31.43.191.125:8080/restream/restream/624
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/INFOSPORT.png",FR: INFOSPORT+
+http://31.43.191.125:8080/restream/restream/626
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/L_EQUIPE.png",FR: L EQUIPE
+http://31.43.191.125:8080/restream/restream/627
+#EXTINF:-1 group-title="FR | DAZN VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/dazn.png",FR: DAZN EVENT 1
+http://31.43.191.125:8080/restream/restream/128959
+#EXTINF:-1 group-title="FR | CANAL+ LIVE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_1.png",FR: CANAL+ LIVE 1
+http://31.43.191.125:8080/restream/restream/128997
+#EXTINF:-1 group-title="FR | CANAL+ LIVE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_2.png",FR: CANAL+ LIVE 2
+http://31.43.191.125:8080/restream/restream/128998
+#EXTINF:-1 group-title="FR | CANAL+ LIVE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_4.png",FR: CANAL+ LIVE 4
+http://31.43.191.125:8080/restream/restream/129000
+#EXTINF:-1 group-title="FR | CANAL+ LIVE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_5.png",FR: CANAL+ LIVE 5
+http://31.43.191.125:8080/restream/restream/129001
+#EXTINF:-1 group-title="FR | CANAL+ LIVE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_6.png",FR: CANAL+ LIVE 6
+http://31.43.191.125:8080/restream/restream/129002
+#EXTINF:-1 group-title="FR | CANAL+ LIVE VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_8.png",FR: CANAL+ LIVE 8
+http://31.43.191.125:8080/restream/restream/129004
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_BOX_OFFICE.png",FR: CANAL+ BOX OFFICE
+http://31.43.191.125:8080/restream/restream/132310
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_GRAND_ECRAN.png",FR: CANAL+ GRAND ÉCRAN
+http://31.43.191.125:8080/restream/restream/132311
+#EXTINF:-1 group-title="FR | TOP CHAINES VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_DOCS.png",FR: CANAL+ DOCS
+http://31.43.191.125:8080/restream/restream/132312
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AL_JAZEERA_ARABIC.png",FR: AL JAZEERA ARABIC
+http://31.43.191.125:8080/restream/restream/132313
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ASTROCENTER_TV.png",FR: ASTROCENTER TV
+http://31.43.191.125:8080/restream/restream/132316
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BBC_WORLD_NEWS.png",FR: BBC WORLD NEWS
+http://31.43.191.125:8080/restream/restream/132317
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BLOOMBERG_TV.png",FR: BLOOMBERG TV
+http://31.43.191.125:8080/restream/restream/132318
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_FESTIVAL.png",FR: CINE+ FESTIVAL
+http://31.43.191.125:8080/restream/restream/132320
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CNBC.png",FR: CNBC
+http://31.43.191.125:8080/restream/restream/132321
+#EXTINF:-1 group-title="FR | MUSIQUE VIP" tvg-logo="https://docdog.top/logo/countries/franceNew/europe_2_pop_tv.png",FR: EUROPE 2 POP TV
+http://31.43.191.125:8080/restream/restream/132323
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/LE_FIGARO_TV.png",FR: LE FIGARO TV
+http://31.43.191.125:8080/restream/restream/132334
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MELODY.png",FR: MELODY
+http://31.43.191.125:8080/restream/restream/132335
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MGG_TV.png",FR: MGG TV
+http://31.43.191.125:8080/restream/restream/132337
+#EXTINF:-1 group-title="FR | INFORMATION VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NHK_WORLD-JAPAN.png",FR: NHK WORLD-JAPAN
+http://31.43.191.125:8080/restream/restream/132338
+#EXTINF:-1 group-title="FR | ENFANT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NICKELODEON_1.png",FR: NICKELODEON +1
+http://31.43.191.125:8080/restream/restream/132339
+#EXTINF:-1 group-title="FR | CINEMA VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/OCS.png",FR: OCS
+http://31.43.191.125:8080/restream/restream/132340
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/OLYMPIA_TV.png",FR: OLYMPIA TV
+http://31.43.191.125:8080/restream/restream/132341
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SPORT_EN_FRANCE.png",FR: SPORT EN FRANCE
+http://31.43.191.125:8080/restream/restream/132342
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TLC.png",FR: TLC
+http://31.43.191.125:8080/restream/restream/132343
+#EXTINF:-1 group-title="FR | OTHER VIP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TV_MONACO.png",FR: TV MONACO
+http://31.43.191.125:8080/restream/restream/132344
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_ALPES.png",FR: F3 ALPES
+http://31.43.191.125:8080/restream/restream/132345
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_ALSACE.png",FR: F3 ALSACE
+http://31.43.191.125:8080/restream/restream/132346
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_AQUITAINE.png",FR: F3 AQUITAINE
+http://31.43.191.125:8080/restream/restream/132347
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_AUVERGNE.png",FR: F3 AUVERGNE
+http://31.43.191.125:8080/restream/restream/132348
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_NORMANDIE.png",FR: F3 NORMANDIE
+http://31.43.191.125:8080/restream/restream/132349
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_CENTRE.png",FR: F3 CENTRE
+http://31.43.191.125:8080/restream/restream/132352
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_CHAMP_ARDENNE.png",FR: F3 CHAMP ARDENNE
+http://31.43.191.125:8080/restream/restream/132353
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_CORSEVIASTELLA.png",FR: F3 CORSEVIASTELLA
+http://31.43.191.125:8080/restream/restream/132354
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_COTE_D-AZUR.png",FR: F3 COTE D-AZUR
+http://31.43.191.125:8080/restream/restream/132355
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_FRANCHE_COMTE.png",FR: F3 FRANCHE COMTE
+http://31.43.191.125:8080/restream/restream/132356
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_LANGUEDOCROU.png",FR: F3 LANGUEDOCROU
+http://31.43.191.125:8080/restream/restream/132357
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_LIMOUSIN.png",FR: F3 LIMOUSIN
+http://31.43.191.125:8080/restream/restream/132358
+#EXTINF:-1 group-title="FR | FRANCE 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/F3_LORRAINE.png",FR: F3 LORRAINE
+http://31.43.191.125:8080/restream/restream/132359
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/france/olplay.png",FR: OLPLAY
+http://31.43.191.125:8080/restream/restream/134218
+#EXTINF:-1 group-title="FR | LIGUE1+ VIP" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png",FR: LIGUE1+ 1
+http://31.43.191.125:8080/restream/restream/142250
+#EXTINF:-1 group-title="FR | LIGUE1+ VIP" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png",FR: LIGUE1+ 4
+http://31.43.191.125:8080/restream/restream/142253
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/CANAL_SPORT_2.png",FR: CANAL+ SPORT 2
+http://31.43.191.125:8080/restream/restream/154443
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/CANAL_SPORT_5.png",FR: CANAL+ SPORT 5
+http://31.43.191.125:8080/restream/restream/154444
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/CANAL_SPORT_4.png",FR: CANAL+ SPORT 4
+http://31.43.191.125:8080/restream/restream/154445
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/CANAL_SPORT_3.png",FR: CANAL+ SPORT 3
+http://31.43.191.125:8080/restream/restream/154446
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/MY_SPORTS_1.png",FR: MY SPORTS 1
+http://31.43.191.125:8080/restream/restream/154447
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/MY_SPORTS_2.png",FR: MY SPORTS 2
+http://31.43.191.125:8080/restream/restream/154448
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/MY_SPORTS_3.png",FR: MY SPORTS 3
+http://31.43.191.125:8080/restream/restream/154449
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/MY_SPORTS_4.png",FR: MY SPORTS 4
+http://31.43.191.125:8080/restream/restream/154450
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/MY_SPORTS_5.png",FR: MY SPORTS 5
+http://31.43.191.125:8080/restream/restream/154451
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/MY_SPORTS_7.png",FR: MY SPORTS 7
+http://31.43.191.125:8080/restream/restream/154453
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/MY_SPORTS_8.png",FR: MY SPORTS 8
+http://31.43.191.125:8080/restream/restream/154454
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://docdog.top/logo/countries/fr/MY_SPORTS_9.png",FR: MY SPORTS 9
+http://31.43.191.125:8080/restream/restream/154455
+#EXTINF:-1 group-title="FR | DIVERTISSEMENT VIP" tvg-logo="https://docdog.top/logo/countries/fr/T18.png",FR: T18
+http://31.43.191.125:8080/restream/restream/156836
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://lo1.in/us/displus.png",FR: DISNEY EVENTS 01 [EVENT ONLY]
+http://31.43.191.125:8080/restream/restream/158692
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://lo1.in/us/displus.png",FR: DISNEY EVENTS 06 [EVENT ONLY]
+http://31.43.191.125:8080/restream/restream/158695
+#EXTINF:-1 group-title="FR | SPORT VIP" tvg-logo="https://lo1.in/us/displus.png",FR: DISNEY EVENTS 07 [EVENT ONLY]
+http://31.43.191.125:8080/restream/restream/158696
