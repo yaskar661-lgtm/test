@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=4534272,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+http://tvkur-static-m3u8-link.onrender.com/proxy?url=https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2486272,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+http://tvkur-static-m3u8-link.onrender.com/proxy?url=https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1155072,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,CLOSED-CAPTIONS=NONE
+http://tvkur-static-m3u8-link.onrender.com/proxy?url=https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=782336,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=640x360,CLOSED-CAPTIONS=NONE
+http://tvkur-static-m3u8-link.onrender.com/proxy?url=https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-360p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=306176,CODECS="avc1.4d400d,mp4a.40.2",RESOLUTION=426x240,CLOSED-CAPTIONS=NONE
+http://tvkur-static-m3u8-link.onrender.com/proxy?url=https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-240p.m3u8

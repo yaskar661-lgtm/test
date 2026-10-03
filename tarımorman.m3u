@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Tarım TV 1080p",Tarım TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://player.tvkur.com/
-#EXTVLCOPT:http-origin=https://player.tvkur.com
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
